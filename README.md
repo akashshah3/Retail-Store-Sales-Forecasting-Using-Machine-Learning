@@ -68,3 +68,7 @@ This project includes a *Colab-compatible prediction pipeline*:
 - Auto-preprocessing with lags and encoding
 - Model-based predictions + visual forecast charts
 - Support for scaler.pkl, rf_model.pkl, and xgb_model.pkl
+
+##  Results 📊
+(result_1)[Result_1.jpeg]
+(result_2)[Result_2.jpeg]
